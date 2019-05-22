@@ -24,3 +24,6 @@ add_executable(4thought
 
 add_executable(a1paper
                a1paper.cc)
+
+add_executable(aaah
+               aaah.cc)
